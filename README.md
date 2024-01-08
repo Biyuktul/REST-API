@@ -13,6 +13,8 @@ Django REST API for [brief description].
 
 ## Endpoints
 [End point](http://localhost:8000/) to GET and POST items
+
 [End point](http://localhost:8000/delete/<int:id>/) to DLETE items
+
 [End point](http://localhost:8000/update/<int:id>/) to PUT items
 
