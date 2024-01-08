@@ -12,7 +12,7 @@ Django REST API for [brief description].
    python manage.py runserver
 
 ## Endpoints
-[End point](http://localhost:8000/) to GET and POST items
+[http://localhost:8000/] to GET and POST items
 
 [End point](http://localhost:8000/delete/<int:id>/) to DLETE items
 
